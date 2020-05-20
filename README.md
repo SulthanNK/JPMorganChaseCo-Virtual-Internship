@@ -2,10 +2,11 @@
 
 A software engineering virtual experience from JPMorgan Chase &amp; Co by InsideSherpa
 
-# Website Link:
+## Website Link:
 
 https://www.insidesherpa.com/virtual-internships/R5iK7HMxJGBgaSbvk
 
-# My Certificate of Completion
+## My Certificate of Completion
 
-JPMorgan Chase Completion Certificate.pdf
+![](https://github.com/chandrikadeb7/JPMorgan-Chase-Virtual-Internship/blob/master/certificate.png)
+
