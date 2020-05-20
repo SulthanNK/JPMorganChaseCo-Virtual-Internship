@@ -10,3 +10,6 @@ https://www.insidesherpa.com/virtual-internships/R5iK7HMxJGBgaSbvk
 
 ![](https://github.com/SulthanNK/JPMorganChaseCo-Virtual-Internship/blob/master/certificate.png)
 
+## LICENSE
+
+See the [LICENSE](LICENSE) file for license rights and limitations (MIT).
